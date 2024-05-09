@@ -49,4 +49,3 @@ jobs:
 
     - name: Push Docker image
       run: docker push myproject
-.github/workflows
